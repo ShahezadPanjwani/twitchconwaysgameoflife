@@ -11,7 +11,7 @@ var Grid = function(x, y, rows, cols, width, height){
    me.height = height;
 
    me.currentTime = 0;
-   me.speed = 1000;
+   me.speed = 100;
 
    me.simulationOn = false;
 
